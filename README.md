@@ -3,7 +3,6 @@
 # First init the git
 ...
 open git bash and type : git init
-create one repo in Git and name it (any name)
 ...
 
 # Adding the file 
@@ -23,3 +22,6 @@ IMP STEPS :
 2. Click on + to add 
 3. Type any msg eg: This is my first Commit
 4. Click on Commit
+5. click on publish Branch and then click to public repo
+NOTE : Do not create the repo before , it automatically created!
+and if u r doing first time then it will give the signin option
