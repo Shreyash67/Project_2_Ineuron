@@ -20,3 +20,6 @@ git commit -m "This is my first commit"
 
 IMP STEPS : 
 1. add the file from source Control (Situated on Left side of your VS code)
+2. Click on + to add 
+3. Type any msg eg: This is my first Commit
+4. Click on Commit
