@@ -25,3 +25,7 @@ IMP STEPS :
 5. click on publish Branch and then click to public repo
 NOTE : Do not create the repo before , it automatically created!
 and if u r doing first time then it will give the signin option
+
+...
+Now create the abc.txt file
+...
