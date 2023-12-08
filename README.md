@@ -47,4 +47,24 @@ Step in Repo :
 ### git pull
 type in git bash : git pull 
 it can fetch all the changes from the Repo
+and then push the changes (See from IMP steps)
+...
+
+...
+create : init_setup.sh  (also called as shell script)
+
+NOTE : This is only for Mac aur Linux not for windows
+
+it can automatically do the steps like creating enviroment,installing packages etc.
+
+then type bash init_setup.sh to create the env (Ensure that your python interpretor is Conda(base))
+
+first it will show error in requirements bcz we cannot add any requirements 
+
+NOTE : sometimes , it will not create the env in windows only 
+so u have to create enviroment manually!
+
+u have to also activate the env
+bash :- source activate ./env
+cmd :- conda activate (env_path)
 ...
